@@ -1,11 +1,17 @@
-title: John Doe # your name (or website title) here
+title: Bharath Anandaraj # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  SDET architect with 10+ years of experience in software development and testing.
+  Specialized in test automation, performance testing, and CI/CD.
+  Worked on various domains like banking, insurance, and e-commerce.
+  Tech enthusiast with a passion for learning new technologies. 
   <br><br>
-  Second description 
+  Programming languages: Java, Python, and JavaScript.
+  Tools: Selenium, JMeter, Jenkins, Docker, and Kubernetes.
+  Test management tools: Jira, AzureDevops, Zephyr,Buzilla and ALM.
+  Exploring the world of cloud computing, DevOps, and AI.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/bharath-anandaraj/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
