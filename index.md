@@ -1,6 +1,15 @@
 ## Portfolio
 
 ---
+### Tech enthusiast with a passion for learning new technologies. 
+  
+  Programming languages: Java, Python, and JavaScript.
+  Tools: Selenium, JMeter, Jenkins, Docker, and Kubernetes.
+  Test management tools: Jira, AzureDevops, Zephyr,Buzilla and ALM.
+  Exploring the world of cloud computing, DevOps, and AI.
+  
+  <a href="https://www.linkedin.com/in/bharath-anandaraj/">View My LinkedIn Profile</a> 
+---
 
 ### Category Name 1 
 

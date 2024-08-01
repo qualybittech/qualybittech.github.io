@@ -4,14 +4,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   SDET architect with 10+ years of experience in software development and testing.
   Specialized in test automation, performance testing, and CI/CD.
   Worked on various domains like banking, insurance, and e-commerce.
-  Tech enthusiast with a passion for learning new technologies. 
-  <br><br>
-  Programming languages: Java, Python, and JavaScript.
-  Tools: Selenium, JMeter, Jenkins, Docker, and Kubernetes.
-  Test management tools: Jira, AzureDevops, Zephyr,Buzilla and ALM.
-  Exploring the world of cloud computing, DevOps, and AI.
-  <br><br>
-  <a href="https://www.linkedin.com/in/bharath-anandaraj/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
